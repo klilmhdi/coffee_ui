@@ -12,6 +12,10 @@ What this app contain:
 * I didn't use any state management here "Only UI"
 * I'm using Material 3
 
+<img src="screenshots/Frame 1.png">
+<br>
 <img src="screenshots/screen 1.png">
+<br>
 <img src="screenshots/screen 2.png">
+<br>
 <img src="screenshots/screen 3.png">
