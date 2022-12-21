@@ -1,16 +1,16 @@
 # coffee_ui
 
-A new Flutter project.
+# Coffee UI App
 
-## Getting Started
+This app for showcase my ability to build a project with a sophisticated and beautiful look using only flutter
 
-This project is a starting point for a Flutter application.
+What this app contain:
+- Coffee Model (Cofee menu)
+- Nice Card Screen
+- Home Page
 
-A few resources to get you started if this is your first Flutter project:
+* I didn't use any state management here "Only UI"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshots/screen 1.png">
+<img src="screenshots/screen 2.png">
+<img src="screenshots/screen 3.png">
