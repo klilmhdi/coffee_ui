@@ -10,6 +10,7 @@ What this app contain:
 - Home Page
 
 * I didn't use any state management here "Only UI"
+* I'm using Material 3
 
 <img src="screenshots/screen 1.png">
 <img src="screenshots/screen 2.png">
