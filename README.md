@@ -1,9 +1,7 @@
-# coffee_ui
-
 # Coffee UI App
 
 This app for showcase my ability to build a project with a sophisticated and beautiful look using only flutter
-
+<img src="screenshots/Frame 1.png">
 What this app contain:
 - Coffee Model (Cofee menu)
 - Nice Card Screen
@@ -21,7 +19,6 @@ flutter pub get
 flutter run
 ```
 
-<img src="screenshots/Frame 1.png">
 <br>
 <img src="screenshots/screen 1.png">
 <br>
